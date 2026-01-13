@@ -1,0 +1,48 @@
+{
+  "battery_0_10": [],
+  "battery_10_20": [],
+  "battery_20_30": [],
+  "battery_30_40": [],
+  "battery_40_50": [
+    {
+      "vehicle_id": "103",
+      "model": "Mahindra",
+      "battery": 40,
+      "status": "under maintenance",
+      "hub": "Chennai",
+      "vehicle_type": "SCOOTER"
+    }
+  ],
+  "battery_50_60": [],
+  "battery_60_70": [
+    {
+      "vehicle_id": "104",
+      "model": "Hyndai",
+      "battery": 69,
+      "status": "on trip",
+      "hub": "Tirupathur",
+      "vehicle_type": "SCOOTER"
+    }
+  ],
+  "battery_70_80": [],
+  "battery_80_90": [
+    {
+      "vehicle_id": "102",
+      "model": "Tesla",
+      "battery": 89,
+      "status": "on trip",
+      "hub": "Tirupathur",
+      "vehicle_type": "CAR"
+    }
+  ],
+  "battery_90_100": [
+    {
+      "vehicle_id": "101",
+      "model": "Suzuki",
+      "battery": 98,
+      "status": "available",
+      "hub": "Salem",
+      "vehicle_type": "CAR"
+    }
+  ]
+}
